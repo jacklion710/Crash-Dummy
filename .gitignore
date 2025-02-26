@@ -1,0 +1,44 @@
+# JUCE Projucer
+*.autosave
+*.jucer.backup
+JuceLibraryCode/
+
+# Build directories
+Builds/
+DeriveData/
+build/
+bin/
+obj/
+KronosInstallerRoot/
+*.pkg
+Kronos Builds/
+*.iss
+*.vst3
+*.vst
+*.au
+*.exe
+
+# Platform-specific files
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.xcodeproj
+*.xcodeworkspace/
+*.pbxuser
+*.mode*
+
+# OS-specific filters
+.DS_Store
+Thumbs.db
+
+# Debug and temporary files
+*.pdb
+*.ilk
+*.log
+*.lastbuildstate
+*.recipe
+*.tlog
+
+# Live Projects
+test project/
