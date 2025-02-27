@@ -78,15 +78,6 @@ git clone https://github.com/jacklion710/Crash-Dummy.git
 - `/Resources` - Assets (SVGs, fonts, etc.)
 - `/JuceLibraryCode` - JUCE framework code
 
-## Development
-
-The plugin is built using JUCE framework and follows a standard audio plugin architecture:
-
-- `PluginProcessor` - Handles core functionality and state management
-- `PluginEditor` - Manages the UI and user interactions
-- `LookAndFeel` - Custom styling and theme implementation
-- `AboutComponent` - About window with links and information
-
 ## Credits
 
 Created by Jacob Leone (Jack.Lion)
